@@ -1,0 +1,7 @@
+.croc-path {
+   fill: #FFFFFF;
+}
+
+.clip-svg {
+   clip-path: url(#myClip);
+}
