@@ -54,7 +54,7 @@ function set(){
 
 // Init Stage
 function init(){
-   gsap.set("#logo", {opacity: 1, onComplete: start})
+   gsap.set("#logo", {opacity: 1, xPercent: -50, yPercent: -50, onComplete: start})
 }
 
 init()
