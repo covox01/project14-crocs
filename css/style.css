@@ -9,6 +9,14 @@
    fill: #FFFFFF;
 }
 
+.copy, #inner-ring, #outer-ring, #clip-1 {
+   fill: rgb(27, 27, 27)
+}
+
+#croc {
+   fill: rgb(43, 43, 43)
+}
+
 .clip-svg {
    clip-path: url(#myClip);
 }
